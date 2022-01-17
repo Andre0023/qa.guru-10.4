@@ -12,7 +12,7 @@ public class Dog {
     }
 
     void say() {
-        System.out.println("My name is " + name + ", meow...");
+        System.out.println("My name is " + name + ", woof...");
     }
 
     void eat(Feed feed) {
