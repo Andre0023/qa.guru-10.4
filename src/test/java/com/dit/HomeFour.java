@@ -1,6 +1,7 @@
 package com.dit;
 
 public class HomeFour {
+    public static void main(String... args) {
     Dog name = new Dog();
 
     name.name = "Belka";
